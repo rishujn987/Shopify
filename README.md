@@ -1,6 +1,6 @@
 # 🛍️ Shopify
 
-**Buyzaar** is a modern clothing e-commerce website built with **React.js**, featuring dynamic category pages, a functional shopping cart, and a sleek UI.
+**Shopify** is a modern clothing e-commerce website built with **React.js**, featuring dynamic category pages, a functional shopping cart, and a sleek UI.
 
 ---
 
